@@ -1,3 +1,2 @@
-a = 'Hola '
-b = 'Mundo !'
-print(a + b)
+mi_variable = 'Dario2222'
+print(mi_variable)
